@@ -1,5 +1,4 @@
-<h2 align="left">Selam ! Benim İsmim The Shasec ve Ben Bir Web Developerim, Azerbaycan'dan</h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=200&color=FFFFFFDE&center=true&vCenter=true&width=1400&height=70&lines=Selam+!+;Benim+%C4%B0smim+The+Shasec+;Ben+Azerbaycan'dan+Olan+Bir+Web+Developerim.)](https://git.io/typing-svg)
 ###
 
 <div align="center">
