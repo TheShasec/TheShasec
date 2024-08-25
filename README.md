@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is The Shasec and I'm a Web Developer, from Azerbaijan.</h2>
+<h2 align="left">Selam ! Benim Isimim The Shasec ve Ben Bir Web Developerim, Azerbaycandan</h2>
 
 ###
 
