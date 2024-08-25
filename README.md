@@ -1,4 +1,4 @@
-<h2 align="left">Selam ! Benim Isimim The Shasec ve Ben Bir Web Developerim, Azerbaycandan</h2>
+<h2 align="left">Selam ! Benim İsmim The Shasec ve Ben Bir Web Developerim, Azerbaycan'dan</h2>
 
 ###
 
