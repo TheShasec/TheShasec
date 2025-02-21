@@ -8,7 +8,7 @@ I am a software developer with a strong interest in web development, always stri
 
 ## Skills & Technologies
 
-html,css,js,bootstrap,tailwind,py,django,git,linux,arch
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,py,django,git,github,linux,arch&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
@@ -27,6 +27,9 @@ html,css,js,bootstrap,tailwind,py,django,git,linux,arch
 - **Created** the GitHub profile configuration repository
 
 ## Connect with Me
+[![](https://skillicons.dev/icons?i=linkedin&perline=8)](https://www.linkedin.com/in/mensur-rehimli-415897318/)
+[![](https://skillicons.dev/icons?i=instagram&perline=8)](https://www.instagram.com/the_shasec/)
+[![](https://skillicons.dev/icons?i=gmail&perline=8)](mailto:theshasec@gmail.com)
 
 
 
@@ -40,20 +43,6 @@ html,css,js,bootstrap,tailwind,py,django,git,linux,arch
    |_| |_| |_|\___|____/|_| |_|\__,_|___/\___|\___|
                                                    
 ```
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/m%C9%99nsur-r%C9%99himli-415897318/" style="border-radius:25px;" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/the_shasec/" style="border-radius:25px;" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:theshasec@gmail.com" style="border-radius:25px;" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
