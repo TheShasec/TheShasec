@@ -1,36 +1,45 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=FFFFFFE8&center=true&width=1000&lines=Hello%2C+I'm+The+Shasec.;A+passionate+web+developer+from+Azerbaijan.)](https://git.io/typing-svg)
-###
+## Hi there! 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheShasec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheShasec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+I'm Mensur Rehimli, a passionate developer who loves crafting innovative solutions and exploring new technologies. Welcome to my GitHub profile!
+
+## About Me
+
+I am a software developer with a strong interest in web development, always striving to create impactful and dynamic web projects. Outside of coding, I enjoy staying active through regular exercise, which keeps me energized and focused. I also have a deep passion for reading—books help me broaden my perspective and keep my mind sharp. In my downtime, I enjoy watching movies, especially fantastic and sci-fi films, as they are the perfect way to unwind and relax.
+
+## Skills & Technologies
+
+html,css,js,bootstrap,tailwind,py,django,git,linux,arch
+
+## GitHub Stats
+
+📊 **Public Repositories:** 3  
+👥 **Followers:** 0  
+🔄 **Following:** 0  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheShasec&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- **Created** [README.md](https://github.com/TheShasec/DSA/commit/810c0053375ad0d8601efbbe163f6758ad18f2ea) in DSA repository  
+- **Created** DSA repository  
+- **Pushed** changes to Web-Projects repository  
+- **Created** Web-Projects repository  
+- **Created** the GitHub profile configuration repository
+
+## Connect with Me
 
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-</div>
+## ASCII Art
 
+```
+  _____ _          ____  _                         
+ |_   _| |__   ___/ ___|| |__   __ _ ___  ___  ___ 
+   | | | '_ \ / _ \___ \| '_ \ / _` / __|/ _ \/ __|
+   | | | | | |  __/___) | | | | (_| \__ \  __/ (__ 
+   |_| |_| |_|\___|____/|_| |_|\__,_|___/\___|\___|
+                                                   
+```
 ###
 
 <div align="left">
