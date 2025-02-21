@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=200&color=FFFFFFDE&center=true&vCenter=true&width=1400&height=70&lines=Selam+!+;Benim+%C4%B0smim+The+Shasec+;Ben+Azerbaycan'dan+Olan+Bir+Web+Developerim.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=FFFFFFE8&center=true&width=550&lines=Hello%2C+I'm+The+Shasec.;A+passionate+web+developer+from+Azerbaijan.)](https://git.io/typing-svg)
 ###
 
 <div align="center">
