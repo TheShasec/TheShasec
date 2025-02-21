@@ -34,13 +34,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/m%C9%99nsur-r%C9%99himli-415897318/" target="_blank">
+  <a href="https://www.linkedin.com/in/m%C9%99nsur-r%C9%99himli-415897318/" style="border-radius:25px;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/the_shasec/" target="_blank">
+  <a href="https://www.instagram.com/the_shasec/" style="border-radius:25px;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:theshasec@gmail.com" target="_blank">
+  <a href="mailto:theshasec@gmail.com" style="border-radius:25px;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
